@@ -39,7 +39,7 @@
     <div class="flex flex-col items-center gap-2">
       <span class="flex gap-2"
         ><span><Icon src={Envelope} size="24px" /></span><span
-          >oleksmagacz16@gmail.com</span
+          >rks.mat.szachy@gmail.com</span
         ></span
       >
       <span class="flex gap-2"
