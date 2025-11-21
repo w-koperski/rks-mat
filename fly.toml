@@ -16,7 +16,7 @@ processes = []
 [env]
 
 [build]
-  image = "ghcr.io/serykii/rks-mat:master"
+  image = "ghcr.io/w-koperski/rks-mat:master"
 
 [[services]]
   http_checks = []
