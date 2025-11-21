@@ -181,7 +181,7 @@
       name="Marian Twardoń"
       description="Mistrz Fide, trener klasy pierwszej. Przyczynił się do zdobycia medalów Mistrzostw Świata, Europy i Polski takich zawodniczek jak: Dalii Blimke, Moniki Bobrowskiej (obecnie Soćko);<br><br>Joanny Worek, Agnieszki Szczygieł i Marioli Woźniak. W latach 1993-2000 był trenerem Reprezentacji Polski Juniorów na Mistrzostwach Świata i Europy.<br><br>W 2020 roku wprowadził do I Ligi Juniorów drużynę KSz „Skoczek” Czerwionka-Leszczyny a w 2023 roku z UKS „Goniec” Staniątki wywalczył VI miejsce w DMPJ-I Liga<br><br>Szaf wyszkolenia Śląskiej Akademii Szachowej."
       nth={1}
-      email="mtwardon@interia.pl"
+      email="rks.mat.szachy@gmail.com"
       bind:active={active1}
       on:clicked={() => {
         active2 = false;
@@ -193,7 +193,7 @@
       name="Anna Hampel"
       description="Instruktorka szachowa, wychowanka naszego Klubu. Wielokrotna medalistka Mistrzostw Śląska i uczestniczka finałów Mistrzostw Polski."
       nth={2}
-      email="aniahampel8@gmail.com"
+      email="rks.mat.szachy@gmail.com"
       bind:active={active2}
       on:clicked={() => {
         active1 = false;
@@ -205,7 +205,7 @@
       name="Dariusz Smagacz"
       description="Kandydat na mistrza krajowego, instruktor szachowy. W przeszłości jeden z trenerów utytułowanej drużyny juniorskiej KŚ AZS Politechniki Śląskiej Gliwice. Wciąż czynny zawodnik, kapitan naszej drużyny seniorskiej."
       nth={3}
-      email="dariuszszachista@onet.pl"
+      email="rks.mat.szachy@gmail.com"
       bind:active={active3}
       on:clicked={() => {
         active2 = false;
