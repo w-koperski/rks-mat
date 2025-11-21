@@ -229,7 +229,7 @@
           ><span class="scale-50 sm:scale-100 w-3 sm:w-5"
             ><Icon src={Envelope} size="20px" /></span
           >
-          <span class="text-xs sm:text-sm">oleksmagacz16@gmail.com </span></a
+          <span class="text-xs sm:text-sm">rks.mat.szachy@gmail.com </span></a
         >
         <a class="btn" href="/contact"
           ><span class="scale-50 sm:scale-100 w-3 sm:w-5"
